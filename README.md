@@ -32,15 +32,39 @@ Building real-world systems, training models, and writing efficient low-level co
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+---
 
+## 📂 Projects
+
+### ProtonDB Python Wrapper  
+Python wrapper for a custom TCP NoSQL database. Modular, pip-installable, uses socket + JSON-based communication.  
+→ [GitHub Repo](https://github.com/sarveshsarvs/ProtonDB)
+
+### EfficientDet Object Detection  
+Trained EfficientDet on a 6-class COCO dataset. Built full pipeline: annotation parsing, bounding box conversion, filtering, and post-processing.
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisetsu15&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kisetsu15&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisetsu15&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarveshsarvs&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarveshsarvs&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshsarvs&layout=compact&theme=dark" height="150"/>
 </p>
 
+---
 
+## 🎯 Goals
+
+- Master ML/DL fundamentals and model deployment  
+- Learn MLOps and model serving techniques  
+- Build production-grade AI pipelines  
+- Land an AI/Data Science role by **end of 2026**
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [insert your link]  
 - Open to AI/ML projects, research, and internships
