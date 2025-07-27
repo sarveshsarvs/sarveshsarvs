@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Engineering+Student;AI+%2F+ML+%2F+Data+Science;Real-World+Projects+%7C+Model+Training;Low-Level+Code+%7C+Clean+Architecture" alt="Typing SVG" />
+</p>
+
+
+
 # Sarvesh
 
 Engineering student focused on AI, Machine Learning, and Data Science.  
