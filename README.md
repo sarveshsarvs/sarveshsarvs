@@ -32,5 +32,15 @@ Building real-world systems, training models, and writing efficient low-level co
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-  
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisetsu15&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kisetsu15&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisetsu15&layout=compact&theme=dark" height="150"/>
+</p>
+
+
 - Open to AI/ML projects, research, and internships
